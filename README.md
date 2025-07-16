@@ -98,3 +98,15 @@ Using `pip`:
 
 ```bash
 python {entrypoint}
+```
+---
+
+### Testing
+
+Farmeasy uses the **(test_framework)** test framework. Run the test suite with:
+
+Using pip:
+
+```bash
+pytest
+```
