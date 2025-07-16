@@ -2,10 +2,6 @@
 
 *Empowering Smarter Farming Through Real-Time Insights*
 
-![last commit](https://img.shields.io/github/last-commit/Abhinav20/Farmeasy?style=flat)
-![jupyter notebook](https://img.shields.io/badge/jupyter-notebook-90.1%25-blue)
-![languages](https://img.shields.io/github/languages/count/Abhinav20/Farmeasy)
-
 *Built with the tools and technologies:*
 
 ![Flask](https://img.shields.io/badge/-Flask-000)
